@@ -1,0 +1,11 @@
+{
+  "name": "claude-ribbon",
+  "owner": { "name": "Omair Dawood", "url": "https://github.com/omaird" },
+  "plugins": [
+    {
+      "name": "progress-glow",
+      "source": "./",
+      "description": "A glowing purple step bar above the prompt that shows the task list and what Claude is doing now"
+    }
+  ]
+}

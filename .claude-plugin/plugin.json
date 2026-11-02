@@ -1,0 +1,1 @@
+{ "name": "progress-glow", "version": "0.1.0", "description": "A glowing purple step bar above the prompt that shows the task list and what Claude is doing now", "types": "./types/index.d.ts" }
