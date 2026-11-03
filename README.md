@@ -73,6 +73,10 @@ Other things it does:
 - It stops all animation when your computer is set to reduce motion.
 - When every step is done it says `all done`. The next prompt clears it.
 
+## Goes well with the session line
+
+[claude-session-sentence](https://github.com/omaird/claude-session-sentence) puts one line above the prompt that says what the session is about, with More for the goal, what is done and what is next. With both installed, the session line sits on top and the ribbon sits below it.
+
 ## How it is built
 
 The mod is two TypeScript files and no build step. Claude Code loads `hooks/register.tsx` as it is.
